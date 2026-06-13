@@ -69,23 +69,6 @@ Recommendation Levels:
 - Canon imageCLASS products dominate sales.
 - Forecast indicates future revenue growth.
 
-## Screenshots
-
-### Executive Summary
-![Executive Summary](screenshots/executive_summary.png)
-
-### Revenue Analysis
-![Revenue Analysis](screenshots/revenue_analysis.png)
-
-### Profit Analysis
-![Profit Analysis](screenshots/profit_analysis.png)
-
-### Product Intelligence
-![Product Intelligence](screenshots/product_intelligence.png)
-
-### Forecasting
-![Forecasting](screenshots/forecasting.png)
-
 ## Future Improvements
 
 - Google Trends Integration
