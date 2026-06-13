@@ -1,0 +1,9 @@
+pandas
+numpy
+sqlalchemy
+matplotlib
+scikit-learn
+openpyxl
+pytrends
+prophet
+jupyter
